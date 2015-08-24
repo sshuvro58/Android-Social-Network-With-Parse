@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+		INJECTED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:13:22-78
+uses-feature#android.hardware.camera
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:16:9-47
+application
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:19:5-72:19
+	android:label
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:20:9-66
+activity#com.teamtreehouse.ribbit.MainActivity
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:26:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.teamtreehouse.ribbit.LoginActivity
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:37:13-57
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:36:13-66
+activity#com.teamtreehouse.ribbit.SignUpActivity
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:40:9-45:20
+	android:screenOrientation
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:42:13-59
+	android:parentActivityName
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:43:13-80
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:41:13-67
+activity#com.teamtreehouse.ribbit.EditFriendsActivity
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:46:9-54:20
+	android:screenOrientation
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:48:13-64
+	android:parentActivityName
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:49:13-79
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:47:13-72
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:51:13-53:73
+	android:value
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:53:17-70
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:52:17-63
+activity#com.teamtreehouse.ribbit.RecipientsActivity
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:55:9-63:20
+	android:screenOrientation
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:57:13-62
+	android:parentActivityName
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:58:13-79
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:56:13-71
+activity#com.teamtreehouse.ribbit.ViewImageActivity
+ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:64:9-71:20
+	android:screenOrientation
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:67:80-116
+	android:label
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:66:13-62
+	android:parentActivityName
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:67:13-79
+	android:name
+		ADDED from D:\droid_work\RibbitDesign\app\src\main\AndroidManifest.xml:65:13-70
